@@ -1,0 +1,19 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="api_credentials.cpp" />
+    <ClCompile Include="order_manager.cpp" />
+    <ClCompile Include="token_manager.cpp" />
+    <ClCompile Include="utility_manager.cpp" />
+    <ClCompile Include="web_socket_client.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="api_credentials.h" />
+    <ClInclude Include="order_manager.h" />
+    <ClInclude Include="token_manager.h" />
+    <ClInclude Include="utility_manager.h" />
+    <ClInclude Include="web_socket_client.h" />
+  </ItemGroup>
+</Project>

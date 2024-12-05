@@ -1,0 +1,3 @@
+/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build/CMakeFiles/GoQuantOEMS.dir
+/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build/CMakeFiles/edit_cache.dir
+/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build/CMakeFiles/rebuild_cache.dir

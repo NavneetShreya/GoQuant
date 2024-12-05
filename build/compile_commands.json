@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/Cellar/openssl@3/3.4.0/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/main.cpp.o -c /Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/main.cpp",
+  "file": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/main.cpp",
+  "output": "CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/main.cpp.o"
+},
+{
+  "directory": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/Cellar/openssl@3/3.4.0/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/api_manager.cpp.o -c /Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/api_manager.cpp",
+  "file": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/api_manager.cpp",
+  "output": "CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/api_manager.cpp.o"
+},
+{
+  "directory": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/Cellar/openssl@3/3.4.0/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/utility_manager.cpp.o -c /Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/utility_manager.cpp",
+  "file": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/utility_manager.cpp",
+  "output": "CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/utility_manager.cpp.o"
+},
+{
+  "directory": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/Cellar/openssl@3/3.4.0/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/web_socket_client.cpp.o -c /Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/web_socket_client.cpp",
+  "file": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/web_socket_client.cpp",
+  "output": "CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/web_socket_client.cpp.o"
+},
+{
+  "directory": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/Cellar/openssl@3/3.4.0/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/token_manager.cpp.o -c /Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/token_manager.cpp",
+  "file": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/token_manager.cpp",
+  "output": "CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/token_manager.cpp.o"
+},
+{
+  "directory": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/include -isystem /opt/homebrew/Cellar/openssl@3/3.4.0/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/api_credentials.cpp.o -c /Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/api_credentials.cpp",
+  "file": "/Users/navneetshreya/Desktop/Deribit_TestAPI_GoQuant/GoQuantOEMSApp/api_credentials.cpp",
+  "output": "CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/api_credentials.cpp.o"
+}
+]

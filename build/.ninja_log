@@ -1,0 +1,5 @@
+# ninja log v6
+2	626	1733396989381084560	CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/api_credentials.cpp.o	28b107e10057b9ae
+2	943	1733396989380834685	CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/web_socket_client.cpp.o	d8cd46477a82f21f
+2	1787	1733396989380698559	CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/utility_manager.cpp.o	358baa38c2c363bb
+1	1781	1733396989380139724	CMakeFiles/GoQuantOEMS.dir/GoQuantOEMSApp/main.cpp.o	24fc5a44b463bbfd

@@ -1,0 +1,40 @@
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": []
+// }
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug GoQuantOEMS",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/goquant_oems", // Adjust the path to your executable
+            "args": [], // Add any required command-line arguments
+            "stopAtEntry": false, // Set true to pause at the entry point
+            "cwd": "${workspaceFolder}", // Set the working directory
+            "environment": [
+                {
+                    "name": "DYLD_LIBRARY_PATH",
+                    "value": "${workspaceFolder}/build"
+                }
+            ],
+            "externalConsole": false, // Set true to use an external terminal
+            "MIMode": "lldb", // Use LLDB for macOS
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "build" // Optional: Run a build task before debugging
+        }
+    ]
+}
